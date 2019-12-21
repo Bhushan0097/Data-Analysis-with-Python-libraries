@@ -8,16 +8,16 @@ Anaconda (jupyter notebook)  ,for  ipynb files
 
 
 
--------->>>>  CONTENTS
+### CONTENTS
        
       
-PART 1.STATISTICS
+### PART 1.STATISTICS
       
       i) Statistics and Data 
       
       ii) Probability
 	
-PART 2. Python Libraries
+### PART 2. Python Libraries
       
       i)  Numpy.
       
