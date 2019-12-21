@@ -13,18 +13,18 @@ softwares recomended :
       
 ### PART 1.STATISTICS
       
-                1. Statistics and Data 
-                2. Probability
-		3. Population and Sample
-		4. Measure of Association
-		5. Hypothesis Testing
+                 1. Statistics and Data 
+                 2. Probability
+		 3. Population and Sample
+		 4. Measure of Association
+		 5. Hypothesis Testing
 		
 	
 ### PART 2. Python Libraries
       
-               1. Numpy.
-               2. Pandas.
-               3. Matlibplot .
-               4. Micselleanous Libraries.
+                1. Numpy.
+                2. Pandas.
+                3. Matlibplot .
+                4. Micselleanous Libraries.
 	   
-*REFERENCES :  Statistics for Bussiness and Economics..*
+##### *REFERENCES :  Statistics for Bussiness and Economics..*
