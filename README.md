@@ -13,8 +13,8 @@ softwares recomended :
       
 ### PART 1.STATISTICS
       
-                 1. Statistics and Data. 
-                 2. Probability.
+                1. Statistics and Data. 
+                2. Probability.
 		 3. Population and Sample.
 		 4. Measure of Association.
 		 5. Hypothesis Testing.
