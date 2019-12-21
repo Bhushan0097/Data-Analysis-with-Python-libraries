@@ -13,28 +13,15 @@ Anaconda (jupyter notebook)  ,for  ipynb files
       
 ### PART 1.STATISTICS
       
-          ##### 1. Statistics and Data 
-          ##### 2. Probability
+                1. Statistics and Data 
+                2. Probability
 	
 ### PART 2. Python Libraries
       
-      i)  Numpy.
-      
-      ii) Pandas.
-      
-      iii) Matlibplot .
-      
-      iv) Micselleanous Libraries.
+               1. Numpy.
+               2. Pandas.
+               3. Matlibplot .
+               4. Micselleanous Libraries.
 	   
-
-
-
-
-
-
-
-
-
-
->>>>REFERENCES :  Statistics for Bussiness and Economics..
+*REFERENCES :  Statistics for Bussiness and Economics..*
 
