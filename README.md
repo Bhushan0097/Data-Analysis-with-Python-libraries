@@ -1,10 +1,10 @@
 #        DATA ANALYSIS WITH PYTHON LIBRARES
 
-The contents present in the repository  are in pdf and .ipynb files.. (docs/CONTRIBUTING.md)
+The contents present in the repository  are in pdf and .ipynb files..
 
 softwares recomended : 
 * Adobe reader ,for pdf files
-* Anaconda (jupyter notebook)  ,for  ipynb files  
+* Anaconda (jupyter notebook)  ,for  ipynb files  This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 
