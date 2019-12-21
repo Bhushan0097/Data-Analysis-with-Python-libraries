@@ -3,8 +3,8 @@
 The contents present in the repository  are in pdf and .ipynb files.. 
 
 softwares recomended : 
-*Adobe reader ,for pdf files
-*Anaconda (jupyter notebook)  ,for  ipynb files  
+* Adobe reader ,for pdf files
+* Anaconda (jupyter notebook)  ,for  ipynb files  
 
 
 
