@@ -15,6 +15,9 @@ softwares recomended :
       
                 1. Statistics and Data 
                 2. Probability
+		3. Population and Sample
+		4. Measure of Association
+		5. Hypothesis Testing
 	
 ### PART 2. Python Libraries
       
