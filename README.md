@@ -4,7 +4,7 @@ The contents present in the repository  are in pdf and .ipynb files..
 
 softwares recomended : 
 * Adobe reader ,for pdf files
-* Anaconda (jupyter notebook)  ,for  ipynb files  This site was built using [GitHub Pages](https://pages.github.com/).
+* Anaconda (jupyter notebook)  ,for  ipynb files  
 
 
 
@@ -28,3 +28,5 @@ softwares recomended :
                 	4. Micselleanous Libraries.
 	   
 ##### *REFERENCES :  Statistics for Bussiness and Economics..*
+
+This site was built using [GitHub Pages](https://pages.github.com/).
