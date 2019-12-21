@@ -13,9 +13,8 @@ Anaconda (jupyter notebook)  ,for  ipynb files
       
 ### PART 1.STATISTICS
       
-      i) Statistics and Data 
-      
-      ii) Probability
+          ##### 1. Statistics and Data 
+          ##### 2. Probability
 	
 ### PART 2. Python Libraries
       
